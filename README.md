@@ -1,4 +1,4 @@
-# 100 Days of Data
+# 100 Days of Databricks
 
 day 1.
 
