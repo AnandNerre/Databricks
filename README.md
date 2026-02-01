@@ -12,3 +12,6 @@ especially if it’s messy.
 - progress > perfection
 
 started today. let’s see what happens.
+
+
+day 2 
