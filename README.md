@@ -13,14 +13,3 @@ especially if it’s messy.
 
 started today. let’s see what happens.
 
-
-day 2 
-
-day 3
-
-day 4
-
-
-day 5
-day 6
-Day 7
